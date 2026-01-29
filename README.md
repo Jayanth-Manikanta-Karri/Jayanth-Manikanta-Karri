@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I am currently working on AI ML Gen AI <br>Want to contribute in QML
-
+- 🔭 I’m currently working on AI, ML, Gen AI
+- 🌱 I’m currently learning Quantum Technologies, QML
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jayanthmani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/JayanthManikan4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayanth.karri2004@gmail.com) 
